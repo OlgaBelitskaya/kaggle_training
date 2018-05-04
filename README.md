@@ -8,6 +8,7 @@
 
 [Day 1](https://github.com/OlgaBelitskaya/kaggle_training/blob/master/5day_dcc_01.ipynb)
 
+[Day 2](https://github.com/OlgaBelitskaya/kaggle_training/blob/master/5day_dcc_02.ipynb)
 
 ### Data Cleaning Challenge - Python
 
